@@ -4,7 +4,7 @@
   "description": "",
   "main": "client_user.js",
   "scripts": {
-    "start": "nodemon client_user.js"
+    "start": "nodemon client_login.js"
   },
   "author": "",
   "license": "MIT",
